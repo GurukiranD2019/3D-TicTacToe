@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(209,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(209,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(209,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(210,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(219,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(219,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(219,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(221,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(228,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(261,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(322,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(324,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(240,7): warning C4101: 'txt': unreferenced local variable
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(377,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LoneB\source\repos\OpenGl\OpenGl\Source.cpp(378,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  OpenGl.vcxproj -> C:\Users\LoneB\source\repos\OpenGl\Debug\OpenGl.exe
